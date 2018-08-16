@@ -1,0 +1,32 @@
+The ASSAIL License:
+==================
+This license is copyright 2015, ASSAIL licensed, see
+  https://github.com/ruminations/Licenses
+for details.
+
+Academic Simple Self Archived Investigation License
+---------------------------------------------------
+
+0: This license applies to documents that historically have been distributed in print, and contemporaneously are distributed on the internet in digital form, hereinafter referred to by the word 'document'.
+
+1: The author or authors of any document subject to this license remain the copyright holders of that document for the purpose of this license.  Thus, license use is irrevocable, and any assignation must include a compatible exclusion.
+
+2: Excerpted text, not to exceed 5% of the document, must include a credit referring to the full document.
+
+3: Each excerpted image must include a credit referring to the full document.
+
+4: Excerpted data for use in other work, must include a credit referring to the full document.
+
+5: Copying and distribution of the full document is permitted, subject to restrictions 6, 7, 8, and 9.
+
+6: Distribution requiring a reader to pay any fee for access is forbidden.
+
+7: Distribution requiring a reader to register for access is forbidden.
+
+8: Distribution requiring a reader to show any institutional identification for access is forbidden.
+
+9: Distribution failing to provide access to the full document is forbidden.
+
+10: Distribution of print copies may accommodate restriction 9 by a printed reference to a digital resource.
+
+11: License invocation is achieved by placing this license text in an appendix, and citing it with the copyright notice as at the head of this license document.

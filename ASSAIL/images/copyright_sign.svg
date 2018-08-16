@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!-- copyright 2017 John Hull, ASSAIL licensed:
+     https://github.com/ruminations/Licenses -->
+<!DOCTYPE svg [
+  <!ENTITY x_extent "12">
+  <!ENTITY x_view "250">
+  <!ENTITY y_extent "12">
+  <!ENTITY y_view "250">
+  ]>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     enable-background="new 0 0 &x_view; &y_view;"
+     width="&x_extent;cm" height="&y_extent;cm"
+     viewBox="0 0 &x_view; &y_view;" x="0px"  y="0px">
+  <!--Unicode Character 'COPYRIGHT SIGN' (U+00A9) -->
+  <g transform="translate(125,125) scale(1,-1)">
+  <circle cx="0" cy="0" stroke="black" stroke-width="15"
+          fill="none" r="92.5"/>
+  <path id="path_1" d="
+      M 30.901669, 28.558620
+      A 38.196601, 48.586827 0 1 1  0.0     ,-48.586827
+      A 48.586827, 48.586827 0 0 1 39.307569,-28.558620
+      A 48.586827, 61.803399 0 1 0 39.307569,28.558620
+      L 30.901669, 28.558620
+    "
+    fill="black" stroke="black" stroke-width=".5" stroke-linejoin="round"/>
+  <!-- The following is scaffolding used to design the character:
+       radii 1 : tau : sqrt(tau^3) : tau^2, tau=(sqrt(5)+1)/2;
+       angles pi/10 and pi/5. -->
+  <circle cx="0" cy="0" stroke="yellow" stroke-width=".5"
+          fill="none" r="100.0"/>
+  <circle cx="0" cy="0" stroke="yellow" stroke-width=".5"
+          fill="none" r="61.803399"/>
+  <circle cx="0" cy="0" stroke="yellow" stroke-width=".5"
+          fill="none" r="48.586827"/>
+  <circle cx="0" cy="0" stroke="yellow" stroke-width=".5"
+          fill="none" r="38.196601"/>
+  <path id="path_0" d="
+      M  39.307569,28.558620
+      L   0.0     ,  0.0
+      L  39.307569,-28.558620
+      M  30.901669, 22.451399
+      L -38.196601,  0.0
+      L  30.901669,-22.451399
+      M   0.0     ,  0.0
+      L   0.0     ,-48.586827
+    "
+    fill="none" stroke="yellow" stroke-width=".5" stroke-linejoin="round"/>
+  </g>
+</svg>
