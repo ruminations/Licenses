@@ -14,7 +14,7 @@ This repository contains licenses created by me that suit me.  Others are welcom
 ----------
 ## Quick Links to License Text
 
-ASSAIL: <https://github.com/ruminations/Licenses/ASSAIL/ASSAIL.txt>
+ASSAIL: <https://github.com/ruminations/Licenses/blob/master/ASSAIL/ASSAIL.txt>
 
 DESIGN_LICENSE: [temporarily, GPL3](#design-license)
 
@@ -114,4 +114,4 @@ Since I do not much care for the GPL's complexity, my code contains only a simpl
 
 Licenses and logos of my original authorship that are distributed here are licensed under the ASSAIL license the text of which is here:
 
-<https://github.com/ruminations/Licenses/ASSAIL/ASSAIL.txt>
+<https://github.com/ruminations/Licenses/blob/master/ASSAIL/ASSAIL.txt>
